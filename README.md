@@ -69,3 +69,5 @@ FoodApp/
 
     Update the API key or endpoints in the source code if required (e.g., src/services/api.js).
     Customize styles in the src/styles/ directory.
+
+#Jenkins:- Deployed
