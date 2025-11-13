@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import styles from "./Search.module.css";
 
 const URL = "https://api.spoonacular.com/recipes/complexSearch";
-const API_KEY = "64f90f791bad4e6eba48100fa8fbffed"; // Use environment variables
+const API_KEY = import.meta.env.VITE_SPOONACULAR_API_KEY; // Use environment variables
 
 export default function Search({ foodData, setFoodData }) {
   const [query, setQuery] = useState("chicken");
