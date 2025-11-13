@@ -7,10 +7,7 @@ This app uses the powerful **Spoonacular API** to fetch recipes based on a user�
 
 ## 🚀 Live Demo  
 
-🌐 *(Add your Netlify link here)*  
-
-Example:  
-https://your-foodapp.netlify.app/
+🌐 *(https://food-app-webiste07.netlify.app/)*
 
 ---
 
@@ -121,10 +118,6 @@ Your app will run at:
 👉 **[http://localhost:5173](http://localhost:5173)**
 
 ---
-
-## 🔑 API Key Usage (Your Current Setup)
-
-You added your Spoonacular API key directly inside the code:
 
 ```jsx
 const API_KEY = "your_api_key";
