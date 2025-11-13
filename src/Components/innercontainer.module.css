@@ -1,0 +1,18 @@
+/* .innercontainer {
+  background-color: whitesmoke;
+  flex: 1;
+  padding: 10px;
+  margin: 10px;
+} */
+.innercontainer {
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.innercontainer:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 25px rgba(255, 107, 53, 0.25);
+}
