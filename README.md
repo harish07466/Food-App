@@ -7,7 +7,7 @@ This app uses the powerful **Spoonacular API** to fetch recipes based on a user�
 
 ## 🚀 Live Demo  
 
-🌐 *(https://food-app-webiste07.netlify.app/)*
+🌐 Preview:- *https://food-app-webiste07.netlify.app/*
 
 ---
 
