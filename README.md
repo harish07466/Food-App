@@ -1,6 +1,6 @@
-# 🍔 Food Recipe Finder App (React + Vite)
+# 🍔 Food App (React + Vite)
 
-A clean and fast **Food Recipe Search Application** built using **React + Vite**.  
+A clean and fast **Food App** built using **React + Vite**.  
 This app uses the powerful **Spoonacular API** to fetch recipes based on a user’s search input and displays recipe cards, images, and essential details.
 
 ---
